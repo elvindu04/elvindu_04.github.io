@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 Hi!
 
-I'm Hanjun Du, a first year M.S. student in Computer Science at [Georgia Institute of Technology](https://scs.gatech.edu/), expecting to graduate in May 2028. I build backend services, developer tools, and data-intensive applications, drawing on experience in robotics and medical imaging.
+I'm Hanjun Du, a first year M.S. student in Computer Science at [Georgia Institute of Technology](https://scs.gatech.edu/), expecting to graduate in May 2028. I build backend services, developer tools, and data-intensive applications, drawing on experience in vision-language-action (VLA) model evaluation, benchmark development, and medical imaging software.
 
 Previously, I worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA in collaboration with Google Research. I received my B.E. in Automation at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
