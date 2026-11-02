@@ -19,11 +19,13 @@ redirect_from:
 
 # 👋 Hi!
 
-I'm Hanjun Du, a first year Master’s student in Computer Science at [Georgia Institute of Technology](https://scs.gatech.edu/) (specialized in machine learning). I received my B.E. in Automation at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). I am also fortunate to have worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA.
+I'm Hanjun Du, a first year M.S. student in Computer Science at [Georgia Institute of Technology](https://scs.gatech.edu/), expecting to graduate in May 2028. I build backend services, developer tools, and data-intensive applications, drawing on experience in robotics and medical imaging.
+Previously, I worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA in collaboration with Google Research. I received my B.E. in Automation at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+I am actively seeking Summer 2027 internship opportunities in the United States. If you think my interests could be a good fit for your team, I would love to connect — please feel free to reach out at [elvindu04@gmail.com](elvindu04@gmail.com).
 
-My primary research interest lies in the intersection of vision, language, and intelligent systems. Particularly, I have worked on medical image processing, 3D reconstruction and registration in [Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/) of SJTU. During my research internship in [PlusLab](https://violetpeng.github.io/) at UCLA, I worked on online reinforcement learning pipelines and Vision-Language-Action models, focusing on the generalization of Embodied Intelligence.
+{My primary research interest lies in the intersection of vision, language, and intelligent systems. Particularly, I have worked on medical image processing, 3D reconstruction and registration in [Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/) of SJTU. During my research internship in [PlusLab](https://violetpeng.github.io/) at UCLA, I worked on online reinforcement learning pipelines and Vision-Language-Action models, focusing on the generalization of Embodied Intelligence.
 
-My long-term goal is to build intelligent systems that can perceive, reason, and act effectively in complex real world environments.
+My long-term goal is to build intelligent systems that can perceive, reason, and act effectively in complex real world environments.}
 
 # 📖 Educations
 
