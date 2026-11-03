@@ -34,7 +34,9 @@ I am actively seeking Summer 2027 internship opportunities in the United States.
 # 💻 Experience
 
 - *2025.07 - 2025.12*, [UCLA PlusLab](https://violetpeng.github.io/), Los Angeles, CA.
+  12312321132
 - *2024.06 - 2026.06*, [SJTU Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/), Shanghai, China.
+  123123123
 
 # 🔎 Projects
 
@@ -51,16 +53,12 @@ I am actively seeking Summer 2027 internship opportunities in the United States.
 
 # 🎖 Honors and Awards
 
-- *2026.06* Outstanding Graduate, Shanghai Jiao Tong University
-- *2025.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU)
-- *2025.12* C-level Merit Scholarship, Shanghai Jiao Tong University (Top 10% in major)
-- *2025.11* Dennis C.C.Chan Scholarship, Shanghai Jiao Tong University (**6 recipients annually**) 
-- *2024.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU)
-- *2024.12* C-level Merit Scholarship, Shanghai Jiao Tong University (Top 10% in major)
+- *2026.06* **Outstanding Graduate**, Shanghai Jiao Tong University
+- *2023, 2024, 2025.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU)
+- *2025.11* Dennis C.C.Chan Scholarship, Shanghai Jiao Tong University (**6 recipients annually**)
 - *2024.12* Shangjun Scholarship, Shanghai Jiao Tong University (Top 10% in major)
 - *2023.12* **A-level Merit Scholarship**, Shanghai Jiao Tong University **(Top 1% SJTU)**
 - *2023.12* Shaoqiu Scholarship, Shanghai Jiao Tong University (**Top 1% in major**)
-- *2023.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU)
 - *2023.11* Third Prize of the China Undergraduate Mathematical Contest in Modeling, Shanghai
 - *2023.09* **Outstanding Student Award**, Shanghai Jiao Tong University **(Top 5% SJTU)**
 - *2023.09* Second Prize of the Mathematical Modeling Elite League, Shanshu Cup (**Top 12.2%** of all teams)
