@@ -23,7 +23,7 @@ I'm Hanjun Du, a first year M.S. student in Computer Science at [Georgia Institu
 
 Previously, I worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA in collaboration with Google Research. I received my B.E. in Automation at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-I am actively seeking Summer 2027 internship opportunities in the United States. If you think I could be a good fit for your team, I would love to connect — please feel free to reach out at [elvindu04@gmail.com](elvindu04@gmail.com).
+I am actively seeking Summer 2027 internship opportunities in the United States. If you think I could be a good fit for your team, please feel free to reach out at [elvindu04@gmail.com](elvindu04@gmail.com).
 
 
 # 📖 Education
