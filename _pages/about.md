@@ -40,8 +40,14 @@ I am actively seeking Summer 2027 internship opportunities in the United States.
 
 # 🔎 Projects
 
-- Embodied AI & Reinforcement Learning: Online RL Pipelines, Vision-Language-Action Models, Embodied Manipulation
-- Medical Imaging & Surgical Intelligence: Image segmentation, 3D Reconstruction, Deformable Registration
+- Campus Secondhand Marketplace
+A campus marketplace for publishing, browsing, and reserving secondhand items. Developed Java/Spring Boot APIs, seller ownership checks, product queries, and reservation workflows with database updates and automated tests.
+
+- ADA-OPRD: LLM Data & Evaluation Toolkit
+A command-line toolkit for preparing experiment data and evaluating model outputs. Implemented configurable commands, schema validation, Parquet result storage, and DuckDB queries for comparing experiment runs.
+
+- Heliostat Simulation Dashboard
+An interactive dashboard for exploring heliostat configurations and comparing simulation results. Built the interface with TypeScript and React to support parameter exploration and selection of an optimized configuration.
 
 # 🔥 News
 
