@@ -40,13 +40,13 @@ I am actively seeking Summer 2027 internship opportunities in the United States.
 
 # 🔎 Projects
 
-- Campus Secondhand Marketplace
+- Campus Secondhand Marketplace<br>
 A campus marketplace for publishing, browsing, and reserving secondhand items. Developed Java/Spring Boot APIs, seller ownership checks, product queries, and reservation workflows with database updates and automated tests.
 
-- ADA-OPRD: LLM Data & Evaluation Toolkit
+- ADA-OPRD: LLM Data & Evaluation Toolkit<br>
 A command-line toolkit for preparing experiment data and evaluating model outputs. Implemented configurable commands, schema validation, Parquet result storage, and DuckDB queries for comparing experiment runs.
 
-- Heliostat Simulation Dashboard
+- Heliostat Simulation Dashboard<br>
 An interactive dashboard for exploring heliostat configurations and comparing simulation results. Built the interface with TypeScript and React to support parameter exploration and selection of an optimized configuration.
 
 # 🔥 News
