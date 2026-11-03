@@ -33,10 +33,10 @@ I am actively seeking Summer 2027 internship opportunities in the United States.
 
 # 💻 Experience
 
-- *2025.07 - 2025.12*, [UCLA PlusLab](https://violetpeng.github.io/), Los Angeles, CA.
-  12312321132
-- *2024.06 - 2026.06*, [SJTU Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/), Shanghai, China.
-  123123123
+- *2025.07 - 2025.12*, [UCLA PlusLab](https://violetpeng.github.io/), Los Angeles, CA.<br>
+  Built shared workflows for VLA model training and evaluation across multiple environments. Developed asynchronous experiment services and LIBERO-PLUS+, a 174-task benchmark for evaluating model robustness.
+- *2024.06 - 2026.06*, [SJTU Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/), Shanghai, China.<br>
+  Developed medical imaging software for 3D reconstruction and clinician-assisted annotation. Customized COLMAP and built data processing and review workflows that reduced annotation time by 95% in clinician testing.
 
 # 🔎 Projects
 
